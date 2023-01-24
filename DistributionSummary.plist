@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcademyAttendance.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7B9E3C2DED8C25EF8ACDA65C0104DEC209F2B2FA</string>
+				<key>dateExpires</key>
+				<string>22/11/24</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4WB5JBQVY8.br.org.eldorado.AcademyAttendance</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.pass-type-identifiers</key>
+				<array>
+					<string>4WB5JBQVY8.*</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4WB5JBQVY8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AcademyAttendance.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a51f9ff4-cddc-4292-8ccd-15b938399f0d</string>
+				<key>dateExpires</key>
+				<string>23/01/24</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: br.org.eldorado.AcademyAttendance</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4WB5JBQVY8</string>
+				<key>name</key>
+				<string>Instituto de Pesquisas Eldorado</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
