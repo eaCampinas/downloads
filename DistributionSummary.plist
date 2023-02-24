@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2</string>
+			<string>1</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -54,7 +54,7 @@
 				<string>Instituto de Pesquisas Eldorado</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.4</string>
+			<string>0.5</string>
 		</dict>
 	</array>
 </dict>
