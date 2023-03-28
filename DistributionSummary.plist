@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AcademyAttendance.ipa</key>
+	<key>ac-ios.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -36,7 +36,7 @@
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>AcademyAttendance.app</string>
+			<string>ac-ios.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
@@ -54,7 +54,7 @@
 				<string>Instituto de Pesquisas Eldorado</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.8</string>
+			<string>0.9</string>
 		</dict>
 	</array>
 </dict>
