@@ -6,6 +6,8 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
+	<key>iCloudContainerEnvironment</key>
+	<string>Production</string>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>signingStyle</key>

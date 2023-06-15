@@ -26,6 +26,16 @@
 				<string>4WB5JBQVY8.br.org.eldorado.AcademyAttendance</string>
 				<key>aps-environment</key>
 				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.br.org.eldorado.Academy</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
 				<key>com.apple.developer.pass-type-identifiers</key>
 				<array>
 					<string>4WB5JBQVY8.*</string>
@@ -40,9 +50,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>a51f9ff4-cddc-4292-8ccd-15b938399f0d</string>
+				<string>c81618f0-4cb3-4e8f-b0b2-dd7c9570e565</string>
 				<key>dateExpires</key>
-				<string>23/01/24</string>
+				<string>14/06/24</string>
 				<key>name</key>
 				<string>iOS Team Inhouse Provisioning Profile: br.org.eldorado.AcademyAttendance</string>
 			</dict>
@@ -54,7 +64,7 @@
 				<string>Instituto de Pesquisas Eldorado</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.9.4</string>
+			<string>0.9.5</string>
 		</dict>
 	</array>
 </dict>
