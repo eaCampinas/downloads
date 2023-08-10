@@ -9,7 +9,7 @@
 	<key>iCloudContainerEnvironment</key>
 	<string>Production</string>
 	<key>method</key>
-	<string>enterprise</string>
+	<string>development</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
