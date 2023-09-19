@@ -14,18 +14,18 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>7B9E3C2DED8C25EF8ACDA65C0104DEC209F2B2FA</string>
+				<string>3E8DCA63B28A86595CCFF096450D64AA535AE8BB</string>
 				<key>dateExpires</key>
-				<string>22/11/24</string>
+				<string>30/07/24</string>
 				<key>type</key>
-				<string>Cloud Managed iOS Distribution</string>
+				<string>Apple Development</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
 				<string>4WB5JBQVY8.br.org.eldorado.AcademyAttendance</string>
 				<key>aps-environment</key>
-				<string>production</string>
+				<string>development</string>
 				<key>com.apple.developer.icloud-container-environment</key>
 				<string>Production</string>
 				<key>com.apple.developer.icloud-container-identifiers</key>
@@ -43,18 +43,18 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>4WB5JBQVY8</string>
 				<key>get-task-allow</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>name</key>
 			<string>Learner.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>2ec83cdd-0338-48a2-8cb9-2af7002b4071</string>
+				<string>38c36d72-b655-49cf-90d8-d7e090e65346</string>
 				<key>dateExpires</key>
-				<string>09/08/24</string>
+				<string>18/09/24</string>
 				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: br.org.eldorado.AcademyAttendance</string>
+				<string>iOS Team Provisioning Profile: br.org.eldorado.AcademyAttendance</string>
 			</dict>
 			<key>team</key>
 			<dict>
