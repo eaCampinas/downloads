@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>1</string>
+			<string>2</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -50,9 +50,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>1c0cd55b-9d06-41ab-93a6-460f44450581</string>
+				<string>38dc7728-0caf-4c0e-8a6c-372f3aa9a433</string>
 				<key>dateExpires</key>
-				<string>18/09/24</string>
+				<string>19/09/24</string>
 				<key>name</key>
 				<string>iOS Team Ad Hoc Provisioning Profile: br.org.eldorado.AcademyAttendance</string>
 			</dict>
@@ -64,7 +64,7 @@
 				<string>Instituto de Pesquisas Eldorado (Enterprise)</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.9.8</string>
+			<string>0.9.9</string>
 		</dict>
 	</array>
 </dict>
